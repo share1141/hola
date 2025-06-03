@@ -1,0 +1,106 @@
+<html>
+<title> PECES</title> 
+</head>
+<body bgcolor="#87CEEB">
+<h1 style="color: green;"> PECES </h1>
+<table style="border-spacing:15px;">
+<tr>
+<td style="background-color=#00D90F"> </tr>
+<td>             </td>
+<td>            </td>
+</tr>
+<tr>
+<td> DECORACIÓN  </td>
+<td> <center> <img src="C:\Users\share\Downloads\decop1.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\decop2.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\decop3.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\decop4.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\decop5.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\decop6.png"></center></td>
+</tr>
+<tr>
+<td>          </td>
+<td>tronco <br> $250  </td>
+<td>casa bob esponja<br> $130  </td>
+<td> medusas con luz <br> $100  </td>
+<td> volcan oxigeno <br> $250  </td>
+<td> castillo piedra <br> $350  </td>
+<td> plantas <br> $70  </td>
+</tr>
+<tr>
+<td>.          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+</tr>
+<tr>
+<td> PECERAS </td>
+<td> <center> <img src="C:\Users\share\Downloads\pece1.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\pece2.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\pece3.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\pece4.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\pece5.png"></center></td>
+</tr>
+<tr>
+<td>          </td>
+<td>pecera grande <br> $8000  </td>
+<td>pecera redondeada  <br> $7000  </td>
+<td>pecera pequeña para pez beta <br> $1000  </td>
+<td>pecera con base de metal <br> $2000  </td>
+<td>pecera circular <br> $1500  </td>
+</tr>
+</tr>
+<tr>
+<td>.          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+</tr>
+<tr>
+<td> ALIMENTO </td>
+<td> <center> <img src="C:\Users\share\Downloads\alipe1.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\alipe2.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\alipe3.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\alipe4.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\alipe5.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\alipe6.png"></center></td>
+</tr>
+<tr>
+<td>          </td>
+<td> alimento LOMAS <br> $100  </td>
+<td> alimento TETRABETTA<br> $70  </td>
+<td> alimento LOMAS GOLDFISH<br> $100  </td>
+<td> alimento LOMAS hojuelas básicas<br> $150  </td>
+<td> alimento LOMAS BETTA<br> $100  </td>
+<td> alimento LOMAS ADVANTAGE<br> $150 </td>
+<tr>
+<td>.          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+</tr>
+<tr>
+<td> FILTROS </td>
+<td> <center> <img src="C:\Users\share\Downloads\FILTRO1.PNG"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\FILTRO2.PNG"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\FILTRO3.PNG"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\FILTRO4.PNG"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\FILTRO5.PNG"></center></td>
+</tr>
+<tr>
+<td>          </td>
+<td> Filtro Tetras Whisper IQ <br> $1500  </td>
+<td> Filtro AquaJet   <br> $1200  </td>
+<td> Filtro HANG ON FILTER <br> $1800  </td>
+<td> Filtro AguaJet <br> $1200  </td>
+<td> Filtro LOMAS  <br> $2500  </td>
+</tr>
+</table>
+</body>
+</html>
