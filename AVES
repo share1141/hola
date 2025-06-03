@@ -1,0 +1,109 @@
+<html>
+<title> AVES </title> 
+</head>
+<body bgcolor="#FFFF00">
+<h1 style="color: GREEN;"> AVES </h1>
+<table style="border-spacing:15px;">
+<tr>
+<td style="background-color=#00D90F"> </tr>
+<td>             </td>
+<td>            </td>
+</tr>
+<tr>
+<td> JAULAS  </td>
+<td> <center> <img src="C:\Users\share\Downloads\jaula.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\jaula2.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\jaula3.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\jaula4.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\jaula5.png"></center></td>
+</tr>
+<tr>
+<td>          </td>
+<td> Jaula triple blanca <br> $550  </td>
+<td> Jaula negra<br> $450  </td>
+<td> Jaula blanca <br> $450  </td>
+<td> Jaula circular pequeña <br> $350  </td>
+<td> Jaula grande blanca con tela negra <br> $650  </td>
+</tr>
+<tr>
+<td>.          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+</tr>
+<tr>
+<td> PREMIOS  </td>
+<td> <center> <img src="C:\Users\share\Downloads\premio1.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\premio2.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\premio3.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\premio4.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\premio5.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\premio6.png"></center></td>
+</tr>
+<tr>
+<td>          </td>
+<td> premios HIGGINS<br> $120 </td>
+<td> premios KAYTEE <br> $70 </td>
+<td> premios LIVING WOELD <br> $ 250</td>
+<td> premios PRESTIGE<br> $ 60</td>
+<td> premios TUTTI MIX<br> $300 </td>
+<td> premios NUTRI-BERRIES<br> $250 </td>
+</tr>
+<tr>
+<td>.          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+</tr>
+<tr>
+<td> JUGUETES </td>
+<td> <center> <img src="C:\Users\share\Downloads\jugue1.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\jugue2.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\jugue3.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\jugue4.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\jugue5.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\jugue6.png"></center></td>
+</tr>
+<tr>
+<td>          </td>
+<td> puente de madera<br> $120 </td>
+<td> bola con agujeros <br> $60 </td>
+<td> tenedor para fruta<br> $70 </td>
+<td> llavero de pastico<br> $50 </td>
+<td> coco escondite <br> $120 </td>
+<td> campana<br> $120 </td>
+</tr>
+<tr>
+<td>.          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+</tr>
+<tr>
+<td> ALIMENTO </td>
+<td> <center> <img src="C:\Users\share\Downloads\alia1.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\alia2.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\alia3.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\alia4.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\alia5.png"></center></td>
+<td> <center> <img src="C:\Users\share\Downloads\alia6.png"></center></td>
+</tr>
+<tr>
+<td>          </td>
+<td> Croquetas para aves grandes <br> $220 </td>
+<td> semillas + premio <br> $250 </td>
+<td> alimento vitaminado <br> $380 </td>
+<td> semillas formula balanceada <br> $250 </td>
+<td> semillas proCanora<br> $250 </td>
+<td> alimento para zenzontles <br> $300 </td>
+</tr>
+
+</table>
+</body>
+</html>
